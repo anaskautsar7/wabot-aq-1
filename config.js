@@ -21,7 +21,7 @@ teks = `${kyun(runtime)}`
 run = `${kyun(runtime)}`
 
 
-global.owner = ['6289677763976', '79224816516'] // Put your number here
+global.owner = ['62859193578139', '79224816516'] // Put your number here
 global.mods = [] // Want some help?
 global.prems = [] // Premium user has unlimited limit
 global.APIs = { // API Prefix
@@ -37,7 +37,7 @@ global.APIKeys = { // APIKey Here
   // 'https://website': 'apikey'
   'https://api.xteam.xyz': '9db5a5373433c015',
   'https://zahirr-web.herokuapp.com': 'zahirgans',
-  'https://api.zeks.xyz': 'apivinz',
+  'https://api.zeks.xyz': 'ANASKAUTSAR',
   'https://pencarikode.xyz': 'pais',
   'https://leyscoders-api.herokuapp.com': 'dappakntlll'
 }
@@ -48,10 +48,10 @@ const spack = fs.readFileSync("lib/exif.json")
 const stickerpack = JSON.parse(spack)
 if (stickerpack.spackname == '') {
  // var sticker_name = 'I hope you\'re fine'
-  //var sticker_author = 'Nurutomo'
-  var sticker_name = '𝙍𝙚𝙖𝙡 𝙁𝙖𝙢𝙨 𝙆𝙞𝙡𝙡𝙚𝙧' // ganti aja
+  //var sticker_author = 'Alvyn'
+  var sticker_name = 'vynutzxx22' // ganti aja
 
-var sticker_author = '' // ganti aja
+var sticker_author = 'Alvyn' // ganti aja
 } else {
   var sticker_name = stickerpack.spackname
   var sticker_author = stickerpack.sauthor
@@ -84,16 +84,16 @@ fs.watchFile(file, () => {
 gc1 = 'https://chat.whatsapp.com/FJkbQjpewltErmQRwzC9rj'
 gc2 = 'https://chat.whatsapp.com/HTcmEqjQeu1GMN2xN210QJ'
 gc3 = 'https://chat.whatsapp.com/I3yAMaBNA9X63FspQ5V46N'
-namaig = 'https://instagram.com/bah.raid'
+namaig = 'https://instagram.com/mhd_anaskautsar553'
 linkf = gc1
 linkff = namaig
-namabot = 'ChokiBot'
-namagithub = 'https://github.com/RTeam1'
+namabot = 'AlvynBot'
+namagithub = 'https://github.com/anaskautsar7'
 gcid = '972502255007-1406453544'
-footer = 'ChokiBot'
+footer = 'AlvynBot'
 lolkey = 'rey2k21'
 global.wait = 'Tunggu Sebentar'
-bc = 'Choki'
+bc = 'Alvyn'
 titler = run
 body = 'X-RyuuZeyy'
 gambar1 = tum1
